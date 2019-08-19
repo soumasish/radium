@@ -1,2 +1,3 @@
-# Radium - A Distributed Key Value Store
-- WIP
+# radium
+A distributed key-value store written in java as an academic exercise
+
